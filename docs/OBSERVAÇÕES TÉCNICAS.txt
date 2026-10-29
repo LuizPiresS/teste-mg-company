@@ -1,0 +1,5 @@
+Observações técnicas
+
+- Sobre o especialista, você tem liberdade para usar imagens de uma pessoa real ou utilizar recursos de inteligência artificial. Independente da escolha, certifique-se de utilizar imagens com boa qualidade;
+- A referência serve, como o próprio nome sugere, como uma base para criação da página. Não é requerido replicá-la nos mínimos detalhes;
+- Foco em estrutura, hierarquia e responsividade;
