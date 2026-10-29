@@ -4,10 +4,11 @@
 
 ---
 
-## 🌐 Deploy em Produção
+## 🌐 Deploys em Produção
 
-- **Link do Deploy (Vercel):** [https://mg-company-kappa.vercel.app](https://mg-company-kappa.vercel.app)
-- **Repositório GitHub:** [https://github.com/LuizPiresS/teste-mg-company](https://github.com/LuizPiresS/teste-mg-company)
+- **Link Principal (Vercel):** [https://mg-company-kappa.vercel.app](https://mg-company-kappa.vercel.app)
+- **Link Alternativo (GitHub Pages):** [https://luizpiress.github.io/teste-mg-company/](https://luizpiress.github.io/teste-mg-company/)
+- **Repositório Público (GitHub):** [https://github.com/LuizPiresS/teste-mg-company](https://github.com/LuizPiresS/teste-mg-company)
 
 ---
 
